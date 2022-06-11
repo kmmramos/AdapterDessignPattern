@@ -1,0 +1,17 @@
+C:\Users\kirstinmegga.ramos\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.exe
+C:\Users\kirstinmegga.ramos\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.deps.json
+C:\Users\kirstinmegga.ramos\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.runtimeconfig.json
+C:\Users\kirstinmegga.ramos\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.dll
+C:\Users\kirstinmegga.ramos\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.pdb
+C:\Users\kirstinmegga.ramos\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kirstinmegga.ramos\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.csproj.AssemblyReference.cache
+C:\Users\kirstinmegga.ramos\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirstinmegga.ramos\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.AssemblyInfoInputs.cache
+C:\Users\kirstinmegga.ramos\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.AssemblyInfo.cs
+C:\Users\kirstinmegga.ramos\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\kirstinmegga.ramos\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.csproj.CopyComplete
+C:\Users\kirstinmegga.ramos\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.dll
+C:\Users\kirstinmegga.ramos\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net6.0\refint\AdapterDesignPattern.dll
+C:\Users\kirstinmegga.ramos\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.pdb
+C:\Users\kirstinmegga.ramos\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.genruntimeconfig.cache
+C:\Users\kirstinmegga.ramos\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\net6.0\ref\AdapterDesignPattern.dll
